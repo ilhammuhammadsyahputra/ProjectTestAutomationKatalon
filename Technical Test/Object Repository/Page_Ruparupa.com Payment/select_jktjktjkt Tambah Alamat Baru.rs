@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_jktjktjkt Tambah Alamat Baru</name>
+   <tag></tag>
+   <elementGuidId>f21cf386-6431-4855-8b1d-3cf2a955ad1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@name='address']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>select[name=&quot;address&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bd21480e-2b6d-41be-a94e-1cc1774472a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>address</value>
+      <webElementGuid>be22e615-6499-497c-87c1-343f0298a3aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>jktjktjkt+ Tambah Alamat Baru</value>
+      <webElementGuid>b47a6e46-d50c-4ed8-8144-fa979d939990</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-parent-stick&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-8&quot;]/div[@class=&quot;accountuser&quot;]/div[@class=&quot;card-container padding-s box-shadow-light margin-top-s&quot;]/div[@class=&quot;detail-shipment&quot;]/div[@class=&quot;choose-address margin-bottom-s margin-top-xs&quot;]/div[@class=&quot;form-m select margin-top-xs bold&quot;]/select[1]</value>
+      <webElementGuid>24034645-bc7f-4892-ad8d-ac156b5bb914</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@name='address']</value>
+      <webElementGuid>df3738b5-9a0d-4058-bd13-fbd9d7b9561a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-parent-stick']/div/div/div/div[2]/div/div/div/select</value>
+      <webElementGuid>2a546825-33cd-4fd3-9cc1-323ee6858492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Alamat Pengiriman'])[1]/following::select[1]</value>
+      <webElementGuid>6bce76ff-0fea-41e3-9241-80afde0f4bc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tidak berlaku penggabungan minimum transaksi dengan produk yang diambil di toko'])[1]/following::select[1]</value>
+      <webElementGuid>ab347742-7d9d-4608-9bff-3ea247414b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ims'])[1]/preceding::select[1]</value>
+      <webElementGuid>bebf63c7-8bff-4f60-9885-d8ca0ef764dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='imsyahputra5396@gmail.com'])[1]/preceding::select[1]</value>
+      <webElementGuid>5169c237-9482-46ff-bc06-4cef5748bf66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>cdbfb54e-da4a-4bf3-8b70-95ab97010fff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'address' and (text() = 'jktjktjkt+ Tambah Alamat Baru' or . = 'jktjktjkt+ Tambah Alamat Baru')]</value>
+      <webElementGuid>cb3f5bcf-9618-4ede-8bcc-5980f3d4aaee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

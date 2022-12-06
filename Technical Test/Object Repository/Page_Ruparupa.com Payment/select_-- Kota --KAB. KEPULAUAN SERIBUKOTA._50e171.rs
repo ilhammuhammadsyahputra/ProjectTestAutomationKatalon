@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Kota --KAB. KEPULAUAN SERIBUKOTA._50e171</name>
+   <tag></tag>
+   <elementGuidId>91053cc7-08fa-4223-a65a-17b6a46ffb8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='city']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#city</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>7ed59902-cbd3-4c13-bda2-2970c0ce8d60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>city</value>
+      <webElementGuid>306c98d6-5a59-4ba8-8b42-a4762bea6f78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input input-no-icon form-control</value>
+      <webElementGuid>a0b44b42-3ada-4a4c-a0df-49bb265b277a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Kota --KAB. KEPULAUAN SERIBUKOTA. JAKARTA TIMURKOTA. JAKARTA UTARAKOTA. JAKARTA PUSATKOTA. JAKARTA SELATANKOTA. JAKARTA BARAT</value>
+      <webElementGuid>01220945-a222-4481-815a-7f7fabcfdbe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;city&quot;)</value>
+      <webElementGuid>ee2fa569-50bd-45fa-9c0a-c4336b3cedf7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='city']</value>
+      <webElementGuid>2e47c53a-4907-487a-9a10-0306c780de9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jakarta'])[1]/following::select[2]</value>
+      <webElementGuid>e9186b97-b47e-449b-bab6-acfad3a4798a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Alamat'])[1]/following::select[2]</value>
+      <webElementGuid>9aa4bebf-1ac3-4d09-a9bd-1c79c4eb76d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::select[2]</value>
+      <webElementGuid>10fd08f3-4ef8-4c32-8283-04b656f7120c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::select[2]</value>
+      <webElementGuid>cc77af7d-c7d4-48ed-a2b2-1a512ce92f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>cfd0f516-a7ea-4dce-ab16-480c372cbd96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'city' and (text() = '-- Kota --KAB. KEPULAUAN SERIBUKOTA. JAKARTA TIMURKOTA. JAKARTA UTARAKOTA. JAKARTA PUSATKOTA. JAKARTA SELATANKOTA. JAKARTA BARAT' or . = '-- Kota --KAB. KEPULAUAN SERIBUKOTA. JAKARTA TIMURKOTA. JAKARTA UTARAKOTA. JAKARTA PUSATKOTA. JAKARTA SELATANKOTA. JAKARTA BARAT')]</value>
+      <webElementGuid>3472e570-7637-4896-a17d-4b44243d85e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

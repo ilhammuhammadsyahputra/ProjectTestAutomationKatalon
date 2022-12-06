@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Kecamatan --TANAH ABANGSENENSAWAH_293385</name>
+   <tag></tag>
+   <elementGuidId>491052df-347f-464d-a763-3eb6c2965cda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='kecamatan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#kecamatan</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f08d9d62-7a47-4952-bd4d-d827a7429754</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>kecamatan</value>
+      <webElementGuid>aaffbd93-6dd2-4e89-9462-8df519e7b340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input form-control</value>
+      <webElementGuid>1ff1341d-fa16-4c52-9d62-3871a34189cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Kecamatan --TANAH ABANGSENENSAWAH BESARMENTENGKEMAYORANJOHAR BARUGAMBIRCEMPAKA PUTIH</value>
+      <webElementGuid>f79652a8-75c2-4365-8513-e8b336576eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kecamatan&quot;)</value>
+      <webElementGuid>feecc4fe-7ec5-4e4b-8d51-a9285f9de473</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='kecamatan']</value>
+      <webElementGuid>07728ab3-910e-4a34-9e94-3737268af591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jakarta'])[1]/following::select[3]</value>
+      <webElementGuid>6a510592-72c7-4532-bb7b-eb3619d7c50f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Alamat'])[1]/following::select[3]</value>
+      <webElementGuid>6e54744b-55ad-48ae-ab41-fd20f826e22e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::select[1]</value>
+      <webElementGuid>ca400715-eacb-4c0a-a694-1c292662283a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::select[1]</value>
+      <webElementGuid>923a17ab-8caf-4c26-86b2-cc35ecae2f22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/select</value>
+      <webElementGuid>54a4a063-2550-4371-9991-7dde3a30fd3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'kecamatan' and (text() = '-- Kecamatan --TANAH ABANGSENENSAWAH BESARMENTENGKEMAYORANJOHAR BARUGAMBIRCEMPAKA PUTIH' or . = '-- Kecamatan --TANAH ABANGSENENSAWAH BESARMENTENGKEMAYORANJOHAR BARUGAMBIRCEMPAKA PUTIH')]</value>
+      <webElementGuid>d8fb22c9-a420-46d6-a0cd-1180164b9040</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

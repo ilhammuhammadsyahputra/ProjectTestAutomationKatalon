@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Bayar Sekarang</name>
+   <tag></tag>
+   <elementGuidId>705026c3-8493-440e-bd75-667a0fa7e8c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[4]/div/div[4]/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-l.btn-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3388dbdd-849e-49cd-afd9-b32b2a86e757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-l btn-full</value>
+      <webElementGuid>badb4c28-b71b-4700-9a95-8a7fa6286cd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bayar Sekarang</value>
+      <webElementGuid>60405267-1eab-4cd3-ab4a-dc7241c6482c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-8&quot;]/div[@class=&quot;pdp-action-right&quot;]/div[@class=&quot;form-button bg-white box-shadow-light&quot;]/button[@class=&quot;btn btn-primary btn-l btn-full&quot;]</value>
+      <webElementGuid>df7a20a2-7ac3-4cb8-9d01-d2f346a20e26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[4]/div/div[4]/div[2]/div/button</value>
+      <webElementGuid>e3a09cc4-e02d-4878-b077-b467f3a1a8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='syarat dan ketentuan'])[1]/following::button[1]</value>
+      <webElementGuid>8d12998b-2961-4065-aea7-a8b7dc1a9a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lakukan pembayaran sesuai bank yang dipilih untuk kelancaran transaksi'])[1]/following::button[1]</value>
+      <webElementGuid>9ad0013a-2823-4a55-a453-0b7038c1d8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bayar Sekarang']/parent::*</value>
+      <webElementGuid>18acd90a-2145-4047-a26a-4e0bcdc31440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>87994773-9906-4d35-93f1-5c8fd34ef431</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Bayar Sekarang' or . = 'Bayar Sekarang')]</value>
+      <webElementGuid>8d79d0c1-0e6d-4664-966c-5cb11e71bd10</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

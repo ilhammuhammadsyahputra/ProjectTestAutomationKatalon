@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Bank Transfer</name>
+   <tag></tag>
+   <elementGuidId>b8570bc6-b93c-4b48-8ad2-ef057d49fc15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='accordion']/div[4]/div/h5/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.panel-title > div.radio.radio-primary > label.font14</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ea3e66d8-1693-4370-af48-f9535d602aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>r11</value>
+      <webElementGuid>9c66937b-2ad3-466a-acdc-7aa4893b7107</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font14</value>
+      <webElementGuid>8e7580ca-6850-415c-a0c4-b90e79256027</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bank Transfer</value>
+      <webElementGuid>44cecca2-dafd-46e3-8da3-88a73d3b7ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;accordion&quot;)/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-heading&quot;]/h5[@class=&quot;panel-title&quot;]/div[@class=&quot;radio radio-primary&quot;]/label[@class=&quot;font14&quot;]</value>
+      <webElementGuid>7b7f4060-fd19-4a91-b4d4-2fd1fdfe97e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='accordion']/div[4]/div/h5/div/label</value>
+      <webElementGuid>5a806bd7-84fb-4152-904b-6e04e9f0ef5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cicilan tanpa Kartu'])[1]/following::label[2]</value>
+      <webElementGuid>25409b11-2bf2-4585-9e29-447e67346958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan Kartu'])[1]/following::label[3]</value>
+      <webElementGuid>2592360d-e8a9-4df7-bfbb-a9603b1084c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Informasi Bank Transfer'])[1]/preceding::label[1]</value>
+      <webElementGuid>8cd86c93-d9ca-4ae0-b423-57bc973e31ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Untuk melakukan transfer dari bank lainnya, silahkan pilih Transfer Bank Permata'])[1]/preceding::label[1]</value>
+      <webElementGuid>55fe6c3a-6810-4da7-acc4-c471b54cf3a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bank Transfer']/parent::*</value>
+      <webElementGuid>80c857c2-0810-4928-9746-1b0213bf12f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5/div/label</value>
+      <webElementGuid>eb128b26-9c45-4a7f-9534-119664dd8758</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Bank Transfer' or . = 'Bank Transfer')]</value>
+      <webElementGuid>be403241-6950-4a55-9aa1-687ada692b46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

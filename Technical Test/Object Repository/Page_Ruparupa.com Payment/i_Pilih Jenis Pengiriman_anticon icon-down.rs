@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Pilih Jenis Pengiriman_anticon icon-down</name>
+   <tag></tag>
+   <elementGuidId>5c5666b7-3cb3-447e-bd61-5e4575309062</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='groupShipment-1']/div/div[3]/div/div[4]/div/table/tbody/tr/td[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.anticon.icon-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c615a6e9-a6c6-4dcd-894d-acefd6ac0cf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>anticon icon-down</value>
+      <webElementGuid>bad5b2ed-3140-4f01-ae08-a09bfc0b12ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;groupShipment-1&quot;)/div[@class=&quot;card-content&quot;]/div[@class=&quot;shipping&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;inactive-dropdown padding-top-xs padding-bottom-xs margin-top-s no-margin-bottom&quot;]/table[1]/tbody[1]/tr[@class=&quot;cursor-pointer&quot;]/td[@class=&quot;center-content padding-right-xs&quot;]/i[@class=&quot;anticon icon-down&quot;]</value>
+      <webElementGuid>8efd2064-af8c-4407-b70a-a7e9869b1b24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='groupShipment-1']/div/div[3]/div/div[4]/div/table/tbody/tr/td[2]/i</value>
+      <webElementGuid>54bd383a-d533-47ad-ab00-5c09feacc6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/i</value>
+      <webElementGuid>df707979-311a-4ed0-a845-00ae0418a6dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

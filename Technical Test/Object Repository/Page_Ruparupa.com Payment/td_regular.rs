@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_regular</name>
+   <tag></tag>
+   <elementGuidId>15c22113-8a52-46cb-a806-bb18768225cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='groupShipment-1']/div/div[3]/div/div[4]/div[2]/div/table/tbody/tr/td</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.padding-left-l.center-content.no-padding-top.no-padding-bottom.text-align-left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>fa329b59-f13e-42d3-aec9-a6a8dd2c68cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>padding-left-l center-content no-padding-top no-padding-bottom text-align-left</value>
+      <webElementGuid>f9fe50f2-0963-4a13-92bd-8023df25688e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30%</value>
+      <webElementGuid>d3e09c29-b6f5-4698-86d9-a116e0d0a2a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>regular</value>
+      <webElementGuid>dbf3cce5-8d62-4c5f-94dc-c7c2b53fa250</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;groupShipment-1&quot;)/div[@class=&quot;card-content&quot;]/div[@class=&quot;shipping&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;col-xs-12&quot;]/div[@class=&quot;dropdown_menu dropdown_menu--animated dropdown_menu-animation dropdown-carrier-type&quot;]/table[@class=&quot;table table-borderless table-hover table-responsive margin-top-m&quot;]/tbody[1]/tr[@class=&quot;no-padding-top no-padding-bottom cursor-pointer&quot;]/td[@class=&quot;padding-left-l center-content no-padding-top no-padding-bottom text-align-left&quot;]</value>
+      <webElementGuid>b12ce900-7685-4c06-9082-5633aee0d2ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='groupShipment-1']/div/div[3]/div/div[4]/div[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>ce28217f-b7ca-4207-8aa2-49907c94d42f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Jenis Pengiriman'])[1]/following::td[2]</value>
+      <webElementGuid>54dc9f72-556c-4042-921f-e106297c3ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Diambil di Store'])[1]/following::td[3]</value>
+      <webElementGuid>45518f2c-40fe-4b44-9c9d-5a2b8f08cf98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='instant'])[1]/preceding::td[1]</value>
+      <webElementGuid>e84cd98b-f9a4-45f5-97c3-b065cd31e5c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/table/tbody/tr/td</value>
+      <webElementGuid>4cdf0515-7533-4a61-8141-0281511f0a8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'regular' or . = 'regular')]</value>
+      <webElementGuid>5cb1d64e-6c11-4b36-9523-03f686125f07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

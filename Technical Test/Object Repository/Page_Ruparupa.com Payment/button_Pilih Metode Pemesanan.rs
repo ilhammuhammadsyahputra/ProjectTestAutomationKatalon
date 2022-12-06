@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih Metode Pemesanan</name>
+   <tag></tag>
+   <elementGuidId>c9c115a6-a5c7-4b42-a67f-e11221438cd7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-sm.btn-full.font-size-m.bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>24181a04-5863-46c1-91c2-71e554ab7a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>696f977f-df2c-4eb5-b04e-b01e718ec850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm btn-full font-size-m bold</value>
+      <webElementGuid>a1f9a6f3-77a4-432e-ae05-474ab5ef23a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Metode Pemesanan</value>
+      <webElementGuid>6d1c4fb7-526e-4430-984a-47ebf9a0a2e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;product-parent-stick&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-xs-4 no-padding-left&quot;]/div[@class=&quot;pdp-action-right container-card margin-top-s&quot;]/div[@class=&quot;padding-left-s padding-right-s padding-bottom-s&quot;]/button[@class=&quot;btn btn-primary btn-sm btn-full font-size-m bold&quot;]</value>
+      <webElementGuid>4b669272-e275-4651-8bf7-cdd9ad5b7e1e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[4]</value>
+      <webElementGuid>d4defd38-9cd3-4da5-ba36-906b869d5d8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='product-parent-stick']/div/div[6]/div/div[2]/button</value>
+      <webElementGuid>c2fd82ea-fbc1-45d1-809e-0bd63f261580</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp79.900'])[2]/following::button[1]</value>
+      <webElementGuid>7350c06e-4a8d-43ed-ace4-0b7c541cd24e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Grand Total'])[1]/following::button[1]</value>
+      <webElementGuid>a3fdb1c9-3729-47d5-abc5-e0509932b29c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Metode Pemesanan']/parent::*</value>
+      <webElementGuid>cca2fcaa-a3a2-4ba4-aa13-366094513d2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[2]/button</value>
+      <webElementGuid>be536752-322e-4696-b52c-b45e30c7b42f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pilih Metode Pemesanan' or . = 'Pilih Metode Pemesanan')]</value>
+      <webElementGuid>1d37466a-122d-4afe-934f-84612df18c99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
